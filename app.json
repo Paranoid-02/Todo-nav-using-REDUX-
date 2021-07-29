@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "todo-nav",
-    "slug": "todo-nav",
+    "name": "todo-navigation",
+    "slug": "todo-navigation",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
